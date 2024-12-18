@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://api.openai.com",
+      "dest": "https://api.anthropic.com",
       "headers": {
         "Access-Control-Allow-Origin": "*"
       }
